@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything related to cybersec and cloud computing. 
 - 📫 How to reach me: conshesload@gmail.com
 - 😄 Pronouns: chi/lean 
-- ⚡ Fun fact: I don't have a major in computer science, but in electrical engeneering 
+- ⚡ Fun fact: I don't have a major in computer science, but in electrical engineering 
 
 <!---
 coldreaverl0l/coldreaverl0l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
